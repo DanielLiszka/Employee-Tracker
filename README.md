@@ -12,9 +12,5 @@ The inquirer package was used to create a command line program. Answer the promp
 ## Installation
 The user will first need to clone the repository and download Node, and start the application by running `npm start`
 
-  
-[Link complete license]()
-![license badge](https://img.shields.io/badge/License-false-blue)
-
 ## Questions
 Email [dliszka@gmail.com] questions regarding the repository.
