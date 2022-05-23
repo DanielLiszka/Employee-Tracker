@@ -5,7 +5,7 @@ A command-line application was created to manage a company's employee database.
 
 ## Usage
 The inquirer package was used to create a command line program. Answer the prompts to enter or view data
-  <img src="utils/README-GENERATOR.gif"><br>
+  <img src="utils/Employee-Tracker.gif"><br>
   Or view link here - [Screencastify](https://drive.google.com/file/d/1YvW_pjwfVK6DWQ9vg4zX-FRBvW7dZR_-/view)
 
 
